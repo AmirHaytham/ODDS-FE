@@ -298,7 +298,7 @@ delivery-platform-frontend/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/delivery-platform-frontend.git
+git clone https://github.com/AmirHaytham/ODDS-FE.git
 ```
 
 2. Install dependencies:
