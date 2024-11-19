@@ -1,7 +1,33 @@
-# 🚚 Delivery Platform Frontend
+# 🚚 On Demand Delivery Service
 
 A comprehensive delivery management solution designed to streamline logistics operations and enhance customer experience. This platform connects businesses, drivers, and customers in a seamless ecosystem for efficient delivery services.
 
+## 📸 Screenshots
+
+### Homepage
+![Homepage](https://github.com/AmirHaytham/ODDS-FE/blob/master/screenshots/Screenshot%20(76).png)
+- Real-time statistics and driver monitoring
+- Quick access to key management features
+
+### Admin Dashboard
+![Admin Dashboard](https://github.com/AmirHaytham/ODDS-FE/blob/master/screenshots/Screenshot%20(82).png)
+- Real-time statistics and driver monitoring
+- Quick access to key management features
+
+### Driver Portal
+![Driver App](https://github.com/AmirHaytham/ODDS-FE/blob/master/screenshots/Screenshot%20(87).png)
+- Active delivery tracking
+- Earnings overview and status controls
+
+### Driver Dashboard
+![User App](https://github.com/AmirHaytham/ODDS-FE/blob/master/screenshots/Screenshot%20(86).png)
+- Tracking derveries and earnings and payments
+
+### Multi-language Support
+![RTL Support](https://github.com/AmirHaytham/ODDS-FE/blob/master/screenshots/Screenshot%20(77).png)
+- Arabic interface with RTL support
+- Seamless language switching
+  
 ## 💼 Business Overview
 
 ### For Businesses
@@ -104,8 +130,7 @@ A comprehensive delivery management solution designed to streamline logistics op
 - React Developer Tools
 
 
-## 📂 Current Project Structure
-
+## 📂 Project Structure
 ```
 delivery-platform-frontend/
 ├── public/
@@ -308,6 +333,29 @@ npm run build
 # or
 yarn build
 ```
+## 🧪 Test Accounts
+
+Use these credentials to test different user roles:
+
+### Admin Account
+```
+Email: admin@odds.com
+Password: admin123
+```
+
+### Driver Account
+```
+Email: driver@odds.com
+Password: driver123
+```
+
+### User Account
+```
+Email: user@odds.com
+Password: user123
+```
+
+Note: These accounts are for testing purposes only. In production, please use secure credentials.
 
 ## 🤝 Contributing
 
@@ -320,30 +368,3 @@ yarn build
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📸 Screenshots
-
-### Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
-- Real-time statistics and driver monitoring
-- Quick access to key management features
-
-### Driver Interface
-![Driver App](./screenshots/driver-interface.png)
-- Active delivery tracking
-- Earnings overview and status controls
-
-### User Experience
-![User App](./screenshots/user-interface.png)
-- Order placement and tracking
-- Clean and intuitive design
-
-### Mobile Responsiveness
-![Mobile View](./screenshots/mobile-view.png)
-- Fully responsive design
-- Optimized for all device sizes
-
-### Multi-language Support
-![RTL Support](./screenshots/rtl-support.png)
-- Arabic interface with RTL support
-- Seamless language switching
