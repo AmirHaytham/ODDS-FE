@@ -7,7 +7,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/AmirHaytham/ODDS-FE/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/AmirHaytham/ODDS-FE)](https://github.com/AmirHaytham/ODDS-FE/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/AmirHaytham/ODDS-FE)](https://github.com/AmirHaytham/ODDS-FE/pulls)
-[![Build Status](https://img.shields.io/github/workflow/status/AmirHaytham/ODDS-FE/CI)](https://github.com/AmirHaytham/ODDS-FE/actions)
+[![Build Status](https://img.shields.io/github/workflow/status/AmirHaytham/ODDS-FE/CI)](https://github.com/AmirHaytham/ODDS-FE/tree/master/.github/workflows)
 [![Code Style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
 
 A comprehensive delivery management solution designed to streamline logistics operations and enhance customer experience. This platform connects businesses, drivers, and customers in a seamless ecosystem for efficient delivery services.
