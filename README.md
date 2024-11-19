@@ -1,4 +1,14 @@
 # 🚚 On Demand Delivery Service
+[![React](https://img.shields.io/badge/React-18.0.0-blue.svg)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC.svg)](https://tailwindcss.com/)
+[![i18next](https://img.shields.io/badge/i18next-21.8-green.svg)](https://www.i18next.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/AmirHaytham/ODDS-FE/graphs/commit-activity)
+[![GitHub issues](https://img.shields.io/github/issues/AmirHaytham/ODDS-FE)](https://github.com/AmirHaytham/ODDS-FE/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/AmirHaytham/ODDS-FE)](https://github.com/AmirHaytham/ODDS-FE/pulls)
+[![Build Status](https://img.shields.io/github/workflow/status/AmirHaytham/ODDS-FE/CI)](https://github.com/AmirHaytham/ODDS-FE/actions)
+[![Code Style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
 
 A comprehensive delivery management solution designed to streamline logistics operations and enhance customer experience. This platform connects businesses, drivers, and customers in a seamless ecosystem for efficient delivery services.
 
