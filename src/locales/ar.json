@@ -1,0 +1,152 @@
+{
+  "appName": "تطبيق التوصيل",
+  "welcome": {
+    "title": "مرحباً بكم في منصة التوصيل",
+    "subtitle": "خدمة توصيل سريعة وموثوقة",
+    "description": "استمتع بخدمة توصيل سلسة مع تتبع مباشر وسائقين محترفين",
+    "feature1": {
+      "title": "تتبع مباشر",
+      "description": "تتبع توصيلاتك مباشرة مع نظام GPS المتقدم"
+    },
+    "feature2": {
+      "title": "سائقون محترفون",
+      "description": "سائقونا ذوو الخبرة والموثوقون يضمنون توصيلات آمنة وفي الوقت المحدد"
+    },
+    "feature3": {
+      "title": "مدفوعات آمنة",
+      "description": "خيارات دفع متعددة وآمنة لراحتك"
+    }
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "register": "تسجيل جديد",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "loginError": "بريد إلكتروني أو كلمة مرور غير صحيحة",
+    "loggingIn": "جاري تسجيل الدخول...",
+    "loginDescription": "مرحباً بعودتك! يرجى تسجيل الدخول إلى حسابك",
+    "name": "الاسم الكامل",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "passwordMismatch": "كلمات المرور غير متطابقة",
+    "registerError": "فشل في التسجيل",
+    "registering": "جاري التسجيل...",
+    "registerDescription": "أنشئ حسابك للبدء",
+    "noAccount": "ليس لديك حساب؟",
+    "haveAccount": "لديك حساب بالفعل؟"
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "welcome": "مرحباً بك في لوحة التحكم",
+    "description": "راقب نشاطات التوصيل وتتبع الطلبات",
+    "totalOrders": "إجمالي الطلبات",
+    "pendingOrders": "الطلبات المعلقة",
+    "totalSpent": "إجمالي المصروفات",
+    "recentOrders": "الطلبات الأخيرة",
+    "noOrders": "لا توجد طلبات",
+    "viewDetails": "عرض التفاصيل"
+  },
+  "orderStatus": {
+    "pending": "معلق",
+    "in-progress": "قيد التنفيذ",
+    "completed": "مكتمل",
+    "cancelled": "ملغي"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ",
+    "success": "تم بنجاح",
+    "orderNumber": "طلب رقم {{id}}"
+  },
+  "admin": {
+    "dashboard": {
+      "title": "لوحة الإدارة",
+      "description": "إدارة منصة التوصيل",
+      "totalOrders": "إجمالي الطلبات",
+      "pendingOrders": "الطلبات المعلقة",
+      "totalRevenue": "إجمالي الإيرادات",
+      "activeDrivers": "السائقين النشطين",
+      "driverStats": "إحصائيات السائقين",
+      "driversOnline": "متصل",
+      "driversBusy": "مشغول",
+      "driversOffline": "غير متصل",
+      "actions": {
+        "manageDrivers": "إدارة السائقين",
+        "manageOrders": "إدارة الطلبات",
+        "managePromotions": "إدارة العروض"
+      }
+    },
+    "promotions": {
+      "title": "إدارة العروض الترويجية",
+      "description": "إنشاء وإدارة الرموز الترويجية",
+      "addNew": "إضافة عرض جديد",
+      "addNewPromotion": "إضافة عرض ترويجي جديد",
+      "promoCode": "رمز العرض",
+      "discountPercentage": "نسبة الخصم",
+      "expiryDate": "تاريخ الانتهاء",
+      "description": "الوصف",
+      "minPurchaseAmount": "الحد الأدنى لمبلغ الشراء",
+      "maxDiscountAmount": "الحد الأقصى لمبلغ الخصم",
+      "usageLimit": "حد الاستخدام",
+      "addPromotion": "إضافة العرض"
+    }
+  },
+  "driver": {
+    "dashboard": {
+      "title": "لوحة تحكم السائق",
+      "description": "إدارة التوصيلات وتتبع الأرباح",
+      "completedDeliveries": "التوصيلات المكتملة",
+      "rating": "التقييم",
+      "earnings": "الأرباح",
+      "currentOrder": "الطلب الحالي"
+    },
+    "status": {
+      "online": "متصل",
+      "offline": "غير متصل"
+    },
+    "order": {
+      "pickup": "موقع الاستلام",
+      "dropoff": "موقع التسليم",
+      "customer": "اسم العميل",
+      "status": "الحالة"
+    },
+    "actions": {
+      "navigate": "التوجيه",
+      "complete": "إكمال التوصيل"
+    }
+  },
+  "breadcrumbs": {
+    "home": "الرئيسية",
+    "admin": "المدير",
+    "driver": "السائق",
+    "dashboard": "لوحة التحكم",
+    "orders": "الطلبات",
+    "drivers": "السائقين",
+    "promotions": "العروض",
+    "profile": "الملف الشخصي"
+  },
+  "user": {
+    "title": "لوحة تحكم المستخدم",
+    "description": "إدارة طلباتك وملفك الشخصي",
+    "orders": {
+      "title": "طلباتي",
+      "description": "عرض وتتبع طلباتك"
+    },
+    "profile": {
+      "title": "ملفي الشخصي",
+      "description": "إدارة إعدادات حسابك"
+    }
+  },
+  "driver": {
+    "title": "بوابة السائق",
+    "description": "إدارة التوصيلات والأرباح",
+    "deliveries": {
+      "title": "توصيلاتي",
+      "description": "عرض وإدارة التوصيلات"
+    },
+    "earnings": {
+      "title": "أرباحي",
+      "description": "تتبع أرباحك ومدفوعاتك"
+    }
+  }
+} 

@@ -1,0 +1,152 @@
+{
+  "appName": "Delivery App",
+  "welcome": {
+    "title": "Welcome to Our Delivery Platform",
+    "subtitle": "Fast and Reliable Delivery Service",
+    "description": "Experience seamless delivery with real-time tracking and professional drivers",
+    "feature1": {
+      "title": "Real-Time Tracking",
+      "description": "Track your deliveries in real-time with our advanced GPS system"
+    },
+    "feature2": {
+      "title": "Professional Drivers",
+      "description": "Our experienced and vetted drivers ensure safe and timely deliveries"
+    },
+    "feature3": {
+      "title": "Secure Payments",
+      "description": "Multiple secure payment options for your convenience"
+    }
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "loginError": "Invalid email or password",
+    "loggingIn": "Logging in...",
+    "loginDescription": "Welcome back! Please sign in to your account",
+    "name": "Full Name",
+    "confirmPassword": "Confirm Password",
+    "passwordMismatch": "Passwords do not match",
+    "registerError": "Registration failed",
+    "registering": "Registering...",
+    "registerDescription": "Create your account to get started",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to Dashboard",
+    "description": "Monitor your delivery activities and track orders",
+    "totalOrders": "Total Orders",
+    "pendingOrders": "Pending Orders",
+    "totalSpent": "Total Spent",
+    "recentOrders": "Recent Orders",
+    "noOrders": "No orders found",
+    "viewDetails": "View Details"
+  },
+  "orderStatus": {
+    "pending": "Pending",
+    "in-progress": "In Progress",
+    "completed": "Completed",
+    "cancelled": "Cancelled"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "orderNumber": "Order #{{id}}"
+  },
+  "admin": {
+    "dashboard": {
+      "title": "Admin Dashboard",
+      "description": "Monitor and manage delivery operations",
+      "totalOrders": "Total Orders",
+      "pendingOrders": "Pending Orders",
+      "totalRevenue": "Total Revenue",
+      "activeDrivers": "Active Drivers",
+      "driverStats": "Driver Statistics",
+      "driversOnline": "Online",
+      "driversBusy": "Busy",
+      "driversOffline": "Offline",
+      "actions": {
+        "manageDrivers": "Manage Drivers",
+        "manageOrders": "Manage Orders",
+        "managePromotions": "Manage Promotions"
+      }
+    },
+    "promotions": {
+      "title": "Promotions Management",
+      "description": "Create and manage promotional codes",
+      "addNew": "Add New Promotion",
+      "addNewPromotion": "Add New Promotion",
+      "promoCode": "Promotion Code",
+      "discountPercentage": "Discount Percentage",
+      "expiryDate": "Expiry Date",
+      "description": "Description",
+      "minPurchaseAmount": "Minimum Purchase Amount",
+      "maxDiscountAmount": "Maximum Discount Amount",
+      "usageLimit": "Usage Limit",
+      "addPromotion": "Add Promotion"
+    },
+    "title": "Admin Panel",
+    "description": "Manage your delivery platform"
+  },
+  "driver": {
+    "dashboard": {
+      "title": "Driver Dashboard",
+      "description": "Manage your deliveries and track earnings",
+      "completedDeliveries": "Completed Deliveries",
+      "rating": "Rating",
+      "earnings": "Earnings",
+      "currentOrder": "Current Order"
+    },
+    "status": {
+      "online": "Online",
+      "offline": "Offline"
+    },
+    "order": {
+      "pickup": "Pickup Location",
+      "dropoff": "Drop-off Location",
+      "customer": "Customer Name",
+      "status": "Status"
+    },
+    "actions": {
+      "navigate": "Navigate",
+      "complete": "Complete Delivery"
+    },
+    "title": "Driver Portal",
+    "description": "Manage your deliveries and earnings",
+    "deliveries": {
+      "title": "My Deliveries",
+      "description": "View and manage your deliveries"
+    },
+    "earnings": {
+      "title": "My Earnings",
+      "description": "Track your earnings and payments"
+    }
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "admin": "Admin",
+    "driver": "Driver",
+    "dashboard": "Dashboard",
+    "orders": "Orders",
+    "drivers": "Drivers",
+    "promotions": "Promotions",
+    "profile": "Profile"
+  },
+  "user": {
+    "title": "User Dashboard",
+    "description": "Manage your orders and profile",
+    "orders": {
+      "title": "My Orders",
+      "description": "View and track your orders"
+    },
+    "profile": {
+      "title": "My Profile",
+      "description": "Manage your account settings"
+    }
+  }
+} 
